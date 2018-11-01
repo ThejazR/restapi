@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 124,
+      "name": "product-2-edited",
+      "img_url": "https://via.placeholder.com/350x150",
+      "desc": "Morbi in interdum nislIagnis dis parturient montes, nascetur ridiculus mus.",
+      "spec": "Morbi in interdum nisl.et magnis dis parturient montes, nascetur ridiculus mus.",
+      "rel": "Morbi in interdum nisl. nis dis parturient montes, nascetur ridiculus mus.",
+      "price": 500,
+      "cgst": 0,
+      "sgst": 0
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "thejaz@gmail.com",
+      "password": "123"
+    }
+  ]
+}
